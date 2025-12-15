@@ -106,6 +106,8 @@ I'm a passionate **Master's student in Finance & Data Science** from **Casablanc
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/walidchajari)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walidchajari02@gmail.com)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-walid--chajari--portfolio--wvck.vercel.app-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://walid-chajari-portfolio-wvck.vercel.app)
+
 ---
 
 ## Latest Activity 📝

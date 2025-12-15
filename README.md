@@ -1,4 +1,4 @@
-# \u00f0\u009f\u0091\u008b Hey there, I'm Walid CHAJARI!
+# Hey there, I'm Walid CHAJARI! 👋
 
 <div align="center">
   <h3>Finance & Data Science Enthusiast | Master's Student | Risk Management Specialist</h3>
@@ -6,19 +6,19 @@
 
 ---
 
-## \ud83d\ude80 About Me
+## About Me 🚀
 
 I'm a passionate **Master's student in Finance & Data Science** from **Casablanca, Morocco**, dedicated to creating innovative solutions that bridge finance and technology. With expertise in risk management, financial analysis, and machine learning, I'm building my career as a **Data Scientist & Financial Analyst**.
 
-- \ud83c\udfaf Currently focused on: **Risk Cartography** | **Fraud Detection ML** | **Financial Dashboard Development**
-- \ud83c\udf31 Continuously learning: Advanced ML algorithms, Ethical Hacking, Robot Advisor fundamentals
-- \ud83d\udcbc Seeking: Internship opportunities in Finance/Data Science
-- \ud83d\udccd Location: **Casablanca, Morocco**
-- \ud83d\udce7 Email: **walidchajari02@gmail.com**
+- Currently focused on: **Risk Cartography** | **Fraud Detection ML** | **Financial Dashboard Development**
+- Continuously learning: Advanced ML algorithms, Ethical Hacking, Robot Advisor fundamentals
+- Seeking: Internship opportunities in Finance/Data Science
+- Location: **Casablanca, Morocco**
+- Email: **walidchajari02@gmail.com**
 
 ---
 
-## 💻 Tech Stack & Skills
+## Tech Stack & Skills 💻
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,33 +41,33 @@ I'm a passionate **Master's student in Finance & Data Science** from **Casablanc
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects🌟
 
-### 📋 [Bourse_Casablanca_Live](https://github.com/walidchajari/Bourse_Casablanca_Live)
+### Bourse_Casablanca_Live 📊
 **Real-time Moroccan Stock Market Dashboard**
 - Live market data visualization using Streamlit & yfinance
 - Technical analysis indicators & price tracking
 - Interactive charts and performance metrics
 
-### 🔍 [Deduction_des_fraudesML](https://github.com/walidchajari/Deduction_des_fraudesML)
+### Deduction_des_fraudesML 🔍
 **Machine Learning Fraud Detection System**
 - Advanced ML algorithms for transaction fraud detection
 - Data preprocessing & feature engineering
 - Model evaluation & optimization
 
-### 💼 [Walid_Chajari_portfolio](https://github.com/walidchajari/Walid_Chajari_portfolio)
+### Walid_Chajari_portfolio 💼
 **Professional Portfolio Website**
 - Modern, responsive design
 - Project showcase & technical skills display
 
-### 🔄 [Financial_Analyzer](https://github.com/walidchajari/Financial_Analyzer)
+### Financial_Analyzer 🔄
 **Comprehensive Financial Analysis Tool**
 - Stock analysis & portfolio evaluation
 - Risk assessment & performance metrics
 
 ---
 
-## 📋 GitHub Statistics
+## GitHub Statistics 📋
 
 [![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidchajari&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/walidchajari)
 
@@ -75,32 +75,32 @@ I'm a passionate **Master's student in Finance & Data Science** from **Casablanc
 
 ---
 
-## 🐟 Skills & Expertise
+## Skills & Expertise 🐟
 
 ### Finance & Risk Management
-- ✅ Risk Cartography & Risk Assessment
-- ✅ Financial Analysis & Valuation
-- ✅ Portfolio Management
-- ✅ Bourse de Casablanca Analysis
-- ✅ Trading & Investment Strategies
+- Risk Cartography & Risk Assessment
+- Financial Analysis & Valuation
+- Portfolio Management
+- Bourse de Casablanca Analysis
+- Trading & Investment Strategies
 
 ### Data Science & Machine Learning
-- ✅ Predictive Modeling
-- ✅ Fraud Detection & Anomaly Detection
-- ✅ Data Visualization & Dashboard Creation
-- ✅ Statistical Analysis
-- ✅ Feature Engineering & Data Preprocessing
+- Predictive Modeling
+- Fraud Detection & Anomaly Detection
+- Data Visualization & Dashboard Creation
+- Statistical Analysis
+- Feature Engineering & Data Preprocessing
 
 ### Web Development
-- ✅ Full-Stack Development (Frontend & Backend)
-- ✅ Responsive Design & UI/UX
-- ✅ API Integration
-- ✅ Database Design & SQL
-- ✅ Streamlit & Web Apps
+- Full-Stack Development (Frontend & Backend)
+- Responsive Design & UI/UX
+- API Integration
+- Database Design & SQL
+- Streamlit & Web Apps
 
 ---
 
-## 🤟 Let's Connect!
+## Let's Connect! 🤟
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/walid-chajari)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/walidchajari)
@@ -108,19 +108,19 @@ I'm a passionate **Master's student in Finance & Data Science** from **Casablanc
 
 ---
 
-## 📝 Latest Activity
+## Latest Activity 📝
 
-- 💡 Building innovative financial data analysis tools
-- 🔬 Exploring advanced ML algorithms for fraud detection
-- 🌟 Completing Master's degree in Finance & Data Science
-- 📚 Researching risk management techniques
-- 🚀 Seeking internship opportunities
+- Building innovative financial data analysis tools
+- Exploring advanced ML algorithms for fraud detection
+- Completing Master's degree in Finance & Data Science
+- Researching risk management techniques
+- Seeking internship opportunities
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my projects, please star them! 🌟
+### If you like my projects, please star them! ⭐
 
 *Let's build something amazing together!*
 
